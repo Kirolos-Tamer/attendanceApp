@@ -1,0 +1,1 @@
+ C:\\Users\\pc\\Desktop\\sure_attendance\\.dart_tool\\flutter_build\\5e3e78d1b20da12a86025e23afcfe15f\\native_assets.yaml: 
