@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248784896658",
+    "project_id": "sure-attendance-6sqzak",
+    "storage_bucket": "sure-attendance-6sqzak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248784896658:android:e1313795f5136ee6e39c4b",
+        "android_client_info": {
+          "package_name": "com.BNU.sureattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwtp1JjwBKBhj_OpL0aQQC1X_1CqVB508"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
