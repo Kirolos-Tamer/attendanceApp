@@ -1,7 +1,5 @@
 # Sure Attendance
 
-A new Flutter project.
+Attendance App, developed for the Benha University Hackathon by Benha National University [BNU].
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This innovative app aims to attendance management for students, academic staff, general staff, and administrators, enhancing accuracy, Teacher Support, Sure Attendance and efficiency in attendance tracking.
